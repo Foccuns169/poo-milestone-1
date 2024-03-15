@@ -3,7 +3,7 @@ package one.milestone.banco.model;
 /*
  * Programação Orientada a Objetos
  * Milestone 1
- * Discente:
+ * Discente: Gean de Lima Ribeiro
  * 
  */
 public class Conta {
